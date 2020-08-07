@@ -1,0 +1,3 @@
+F:/czz/CTViewer/src/build/CMakeFiles/CTViewer.dir
+F:/czz/CTViewer/src/build/CMakeFiles/ALL_BUILD.dir
+F:/czz/CTViewer/src/build/CMakeFiles/ZERO_CHECK.dir
